@@ -7,7 +7,19 @@
     <meta name="viewport" content="width=device-width, user-scalable=false">
   </head>
   <body>
-    <h2><a href="{% link index.md %}">Home</a> <a href="{% link faq.md %}">FAQ</a></h2>
+    <h2>
+      {% if page.url != "/" %}
+        <a href="{% link index.md %}">Home</a>
+      {% else %}
+        <span>Home</span>
+      {% endif %}
+      
+      {% if page.url != "/faq.html" %}
+        <a href="{% link faq.md %}">FAQ</a>
+      {% else %}
+        <span>FAQ</span>
+      {% endif %}
+    </h2>
     <p><a id="dark-mode-toggle" onclick="switchTheme()">Switch to Light Mode</a></p>
     <hr>
     {{ content }}
