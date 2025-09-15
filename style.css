@@ -1,14 +1,14 @@
 :root {
-  --background-body: #ed9212;
-  --background: #ed9212;
+  --background-body: #ff00c8;
+  --background: #1D003A;
   --background-bright: rgba(240, 246, 252, 0.15);
   --background-alt: #1a242f;
   --selection: #1c76c5;
-  --text-main: #c9d1d9;
+  --text-main: #F2FF84;
   --text-bright: #e3e9f0;
   --text-muted: #8b949e;
-  --links: #e3bc5e;
-  --visited-links: #ff00c8;
+  --links: #AAFFE9;
+  --visited-links: #49D6C1;
   --focus: #388bfd;
   --focus-background: #0c2d6b;
   --border: #21252c;
