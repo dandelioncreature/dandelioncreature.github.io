@@ -22,16 +22,16 @@
 }
 
 :root:has(.light-mode) {
-  --background-body: #0066ff;
-  --background: #006aff;
+  --background-body: #E5DFDE;
+  --background: #E5DFDE;
   --background-bright: rgba(240, 246, 252, 0.15);
   --background-alt: #1a242f;
   --selection: #1c76c5;
-  --text-main: #c9d1d9;
-  --text-bright: #e3e9f0;
+  --text-main: #1D003A;
+  --text-bright: #000000;
   --text-muted: #8b949e;
-  --links: #e3bc5e;
-  --visited-links: #ff00c8;
+  --links: #0098A3;
+  --visited-links: #ED9212;
   --focus: #388bfd;
   --focus-background: #0c2d6b;
   --border: #21252c;
