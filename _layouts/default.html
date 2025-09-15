@@ -17,7 +17,7 @@
         const body = document.body;
         const toggleLink = document.getElementById('dark-mode-toggle');
 
-        if (JSON.parse(localStorage.isLightMode)) {
+        if (localStorage.isLightMode !== undefined && JSON.parse(localStorage.isLightMode)) {
           body.classList.add('light-mode');
           toggleLink.textContent = "Switch to Dark Mode";
         } else {
@@ -27,7 +27,7 @@
       }
 
       function switchTheme() {
-        localStorage.isLightMode = !JSON.parse(localStorage.isLightMode);
+        localStorage.isLightMode = localStorage.isLightMode === undefined || !JSON.parse(localStorage.isLightMode);
         updateTheme();
       }
 
