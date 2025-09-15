@@ -22,8 +22,8 @@
 }
 
 :root:has(.light-mode) {
-  --background-body: #E5DFDE;
-  --background: #E5DFDE;
+  --background-body: #D8D1CD;
+  --background: #D8D1CD;
   --background-bright: rgba(240, 246, 252, 0.15);
   --background-alt: #1a242f;
   --selection: #1c76c5;
