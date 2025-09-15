@@ -8,7 +8,30 @@
   </head>
   <body>
     <h2><a href="{% link index.md %}">Home</a> <a href="{% link faq.md %}">FAQ</a></h2>
+    <p><a id="dark-mode-toggle" onclick="switchTheme()">Switch to Light Mode</a></p>
     <hr>
     {{ content }}
+    
+    <script>
+      function updateTheme() {
+        const body = document.body;
+        const toggleLink = document.getElementById('dark-mode-toggle');
+
+        if (JSON.parse(localStorage.isLightMode)) {
+          body.classList.add('light-mode');
+          toggleLink.textContent = "Switch to Dark Mode";
+        } else {
+          body.classList.remove('light-mode');
+          toggleLink.textContent = "Switch to Light Mode";
+        }
+      }
+
+      function switchTheme() {
+        localStorage.isLightMode = !JSON.parse(localStorage.isLightMode);
+        updateTheme();
+      }
+
+      updateTheme();
+    </script>
   </body>
 </html>
