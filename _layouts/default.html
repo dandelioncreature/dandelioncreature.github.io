@@ -3,9 +3,11 @@
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="{% link Chocolate.css %}" type="text/css">
+    <link rel="stylesheet" href="{% link style.css %}" type="text/css">
   </head>
   <body>
+    <h1><a href="{% link index.md %}">Home</a> <a href="{% link faq.md %}">FAQ</a></h1>
+    <hr>
     {{ content }}
   </body>
 </html>
