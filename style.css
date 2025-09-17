@@ -1,10 +1,10 @@
 :root {
-  --background-body: #1D003A;
-  --background: #1D003A;
+  --background-body: #101728;
+  --background: #101728;
   --background-bright: rgba(240, 246, 252, 0.15);
   --background-alt: #1a242f;
   --selection: #1c76c5;
-  --text-main: #B59387;
+  --text-main: #a4bfbf;
   --text-bright: #e3e9f0;
   --text-muted: #8b949e;
   --links: #49D6C1;
@@ -22,21 +22,21 @@
 }
 
 :root:has(.light-mode) {
-  --background-body: #D8D1CD;
-  --background: #D8D1CD;
-  --background-bright: rgba(240, 246, 252, 0.15);
+  --background-body: #D6C7C2;
+  --background: #D6C7C2;
+  --background-bright: #f0f6fc26;
   --background-alt: #1a242f;
   --selection: #1c76c5;
-  --text-main: #1D003A;
+  --text-main: #0b0704;
   --text-bright: #000000;
-  --text-muted: #8b949e;
-  --links: #0098A3;
-  --visited-links: #ED9212;
+  --text-muted: #0f0905;
+  --links: #00577C;
+  --visited-links: #CE7B08;
   --focus: #388bfd;
   --focus-background: #0c2d6b;
   --border: #21252c;
   --border-muted: #21262d;
-  --border-bright: #8b949e;
+  --border-bright: #0f0905;
   --button-hover: #324759;
   --form-placeholder: #a9a9a9;
 }
@@ -52,8 +52,7 @@ html {
 }
 
 body {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, sans-serif;
-  font-family: var(--sans-serif);
+  font-family: Verdana, Myriad Web, Syntax, sans-serif, Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, sans-serif;
   line-height: 1.7;
   max-width: 50rem;
   margin: 3rem auto;
