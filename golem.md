@@ -2,4 +2,4 @@
 layout: default
 title: golem
 ---
-I <3 golems
+To me the golem is a symbol of psychological dissociation and brain fog, of lacking control over my own body, of being formed from the literal earth, of being more vulnerable to the actions of others than my nondisabled peers, an inability to articulate myself or be fully legible to others, an instinct to protect my community, a physical largeness that isn’t medicalized, an earnest kindness that others might fail to see, a personhood that systems I live within often fail to account for. Some of those things are experiences I’ve managed to free myself from or at least believe I have the capacity to change. Some of them are things that will always be with me. I think the golem in my logo has picked a dandelion even though nobody told it to. It hasn’t freed itself from the constraints of its existence, but it has managed to make a choice about what it values and how it will define itself.
