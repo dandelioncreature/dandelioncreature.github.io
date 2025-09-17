@@ -1,19 +1,19 @@
 :root {
-  --background-body: #101728;
-  --background: #101728;
+  --background-body: #101e2b;
+  --background: #101e2b;
   --background-bright: rgba(240, 246, 252, 0.15);
   --background-alt: #1a242f;
   --selection: #1c76c5;
-  --text-main: #a4bfbf;
-  --text-bright: #e3e9f0;
-  --text-muted: #8b949e;
-  --links: #49D6C1;
-  --visited-links: #F9CA44;
+  --text-main: #D3C9C0;
+  --text-bright: #D3C9C0;
+  --text-muted: #D3C9C0;
+  --links: #ffaa5e;
+  --visited-links: #8d697a;
   --focus: #388bfd;
   --focus-background: #0c2d6b;
   --border: #21252c;
-  --border-muted: #21262d;
-  --border-bright: #8b949e;
+  --border-muted: #D3C9C0;
+  --border-bright: #D3C9C0;
   --button-hover: #324759;
   --form-placeholder: #a9a9a9;
   --select-arrow: svg-load("./assets/select-arrow.svg", fill:#efefef);
