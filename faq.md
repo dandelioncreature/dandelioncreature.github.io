@@ -1,5 +1,5 @@
 ---
 layout: default
-title: faq
+title: tzitzit
 ---
-Frequently asked FAQs questions
+information about the hand spun tzitzit strings I make

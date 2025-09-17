@@ -9,15 +9,33 @@
   <body>
     <h2>
       {% if page.url != "/" %}
-        <a href="{% link index.md %}">Home</a>
+        <a href="{% link index.md %}">home</a>
       {% else %}
-        <span>Home</span>
+        <span>home</span>
       {% endif %}
-
+      |
       {% if page.url != "/faq.html" %}
-        <a href="{% link faq.md %}">FAQ</a>
+        <a href="{% link faq.md %}">tzitzit</a>
       {% else %}
-        <span>FAQ</span>
+        <span>tzitzit</span>
+      {% endif %}
+      |      
+      {% if page.url != "/golem.html" %}
+        <a href="{% link golem.md %}">golem</a>
+      {% else %}
+        <span>golem</span>
+      {% endif %}
+      |
+      {% if page.url != "/shop.html" %}
+        <a href="{% link shop.md %}">shop</a>
+      {% else %}
+        <span>shop</span>
+      {% endif %}
+      |
+      {% if page.url != "/contact.html" %}
+        <a href="{% link contact.md %}">contact</a>
+      {% else %}
+        <span>contact</span>
       {% endif %}
     </h2>
     <p><a id="dark-mode-toggle" onclick="switchTheme()">Switch to Light Mode</a></p>
