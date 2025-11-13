@@ -2,7 +2,7 @@
 layout: default
 title: tzitzit
 ---
-#### ARE THE TZITZIT STRINGS I MAKE KOSHER?
+### ARE THE TZITZIT STRINGS I MAKE KOSHER?
 
 The short answer: most orthodox jews would not consider the tzitzit strings I spin kosher because they would not consider me Jewish. More detail below.
 
@@ -19,11 +19,11 @@ Here are some additional considerations I make that are not strictly required by
 - I prioritize durability over softness. My hope is that the tzitzit strings I spin will last a long time without breaking or fraying, and will hold up to wear, washing, fidgeting, and even unpicking and retying if needed. My favorite way to spin them is as a true worsted, high twist, cabled four ply. This creates a yarn with high tensile strength and abrasion resistance, as well as giving it a shine under some light that I find quite beautiful. 
 - I put extra care and money into sourcing the fibers I use to spin tzitzit strings. Using high quality and ethically made materials is an important part of my artistic practice in general, but it is an even stronger priority for me when creating ritual objects. More on this below.
 
-#### WOOL SOURCING
+### WOOL SOURCING
 
 My latest batch of tzitzit strings was spun with corriedale wool from [Aker Fiber Farm](https://akerllc.com/). This is a small fiber farm based in the US where the sheep live very comfortable lives with access to open pasture. When their wool grows long enough they are shorn (a process that is safe, and necessary for the health of the sheep) and then the fleeces are processed into clean, combed fiber at a mill before I buy the fiber to spin. Corriedale sheep are a breed raised in many farms across the US, and they do not require procedures like mulesing to stay healthy. I will update this page if I spin tzitzit strings using wool from a different source in the future.
 
-#### MY SPINNING WHEEL
+### MY SPINNING WHEEL
 
 I use an electric spinning wheel to spin yarn, because my disabilities mean I am unable to treadle a more traditional spinning wheel without injury. It is a fantastic adaptation that has allowed me to continue making yarn even when I have had to stop participating in other crafts due to their impact on my health. Before beginning to create tzitzit strings I made sure to check if this could affect the kosher status of the strings I spin. Luckily, it does not. Here’s a summary of how I came to that conclusion:
 
@@ -31,7 +31,7 @@ There is some debate among rabbis about tzitzit strings that are “machine spun
 
 Without getting too technical, most spinning wheels used for hand spinning today require the spinner to do two things at once: treadle and draft. Spinners treadle with their feet to keep the main wheel of the spinning wheel turning. This is the part that my electric spinning wheel does for me, using a simple motor. Drafting is the process that spinners do with their hands to control the fiber as the motion of the wheel creates twist and winds the newly created yarn onto the bobbin. I do this part of the process exactly the same way as spinners using traditional spinning wheels. This means that every millimeter of thread that makes up the tzitzit strings I create passes between my fingers at the very moment the fibers are twisted together, becoming yarn. 
 
-#### FINAL NOTES
+### FINAL NOTES
 
 - The scraps left after trimming the length of tied tzitzit are not considered holy and do not need to be treated with special consideration. You can throw them away, repurpose them, or if they are 100% wool they can be composted.
 - My hope for the future is to be able to create sets that include shamash strings dyed with plant derived indigo. I will have waaaaay more to say about the significance of that, the process, and the history of techelet when that happens! Unfortunately, it’s unlikely I will be able to make that happen soon.
