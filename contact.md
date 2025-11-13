@@ -2,4 +2,4 @@
 layout: default
 title: contact
 ---
-whisper my name into the wind on a cool summer night
+I plan to set up an email list and contact form in the future, but for now the best way to contact me is [through my instagram](https://www.instagram.com/dandelion_creature/).
