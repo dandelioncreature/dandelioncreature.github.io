@@ -2,4 +2,8 @@
 layout: default
 title: contact
 ---
-I plan to set up an email list and contact form in the future, but for now the best way to contact me is [through my instagram](https://www.instagram.com/dandelion_creature/).
+If you would like to be notified by email when my online shop is up and running, or if you have any questions please email:
+
+###### rain@dandelioncreature.com
+
+You can also [follos me on instagram](https://www.instagram.com/dandelion_creature/) where I will post any major updates.
