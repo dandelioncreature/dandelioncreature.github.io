@@ -8,4 +8,4 @@ In the meantime I am open to potential art trades! Feel free to email me with wh
 
 You can also email to ask to be added to my list to be notified when my online shop is eventually up and running.
 
-###### rain@dandelioncreature.com
+#### rain@dandelioncreature.com
